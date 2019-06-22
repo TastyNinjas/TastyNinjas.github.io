@@ -1,0 +1,131 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+
+    display: flex;
+    width: 90%;
+    margin: auto;
+    align-items: center;
+}
+.logo {
+    height: 100px;
+    width: 100px;
+}
+
+.logo-container,.nav-links,.cart {
+    display: flex;
+}
+
+.logo-container {
+
+    height: 100%;
+    flex: 1;
+}
+.cart{
+    flex: 1;
+}
+nav {
+    flex: 2;
+}
+
+.nav-links {
+    justify-content: space-around;
+    list-style: none;
+}
+
+.nav-link {
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #5f5f79;
+    font-size: 18px;
+    text-decoration: none;
+}
+.nav-link:hover {
+    color: #32323f;
+}
+main {
+    margin:0;
+    padding: 0;
+}
+.Match {
+    width: 90%;
+    margin: auto;
+}
+.team-names {
+    padding: 50px 0px 0px 0px;
+    text-align: center;
+    width: 90%;
+    height: 100%;
+}
+
+.team-text h1 {
+    text-align: center;
+    color: #5f5f79;
+    position: absolute;
+    display: flex;
+    font-size: 30px;
+    font-weight: bold;
+}
+.team-text h2 {
+    color: #5f5f79;
+    position: absolute;
+    display: flex;
+    font-size: 18px;
+    font-weight: bold;
+}
+h2:hover {
+    color: #32323f;
+}
+.TastyNinjas {
+    left: 35%;
+}
+
+.eagleEsport {
+    right: 35%;
+}
+.ergebniss {
+    top: 25%;
+    left: 47%;
+}
+.Teamlogos,.Teamlogos1 {
+    height: 100%;
+    width: 90%;
+    display: flex;
+}
+
+
+.Teamlogos {
+    width: 90%;
+    margin: auto;
+    position: absolute;
+    top: 25%;
+}
+.Teamlogos1 {
+    flex: 1;
+    width: 90%;
+    margin: auto;
+    position: absolute;
+    top: 25%;
+}
+
+.Teamlogo {
+    position: absolute;
+    border-radius: 50%;
+}
+
+.eagleEsport-logo {
+    right: 37%;
+
+}
+
+.TastyNinjas-logo {
+    left: 33%;
+}
