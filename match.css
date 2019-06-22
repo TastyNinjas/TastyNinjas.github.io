@@ -111,11 +111,12 @@ main {
 }
 
 .eagleEsport {
-    right: 35%;
-    opacity: 1;
+    right: 37.5%;
+    
+
 }
 .place2beninja {
-    right: 37.5%;
+    right: 35%;
     top: 43%;
 }
 .ergebniss {
@@ -163,12 +164,11 @@ main {
 
 .eagleEsport-logo {
     right: 37%;
-    
+    top: 30%;
 
 }
 .place2beninja-logo {
     right: 37%;
-    top: 30%;
 }
 
 .TastyNinjas-logo {
