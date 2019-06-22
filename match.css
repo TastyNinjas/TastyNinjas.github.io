@@ -59,11 +59,14 @@ main {
     width: 90%;
     margin: auto;
 }
-.team-names {
+.team-names1 {
     padding: 50px 0px 0px 0px;
     text-align: center;
     width: 90%;
     height: 100%;
+}
+.team-names {
+    width: 90%;
 }
 
 .team-text h1 {
@@ -81,18 +84,46 @@ main {
     font-size: 18px;
     font-weight: bold;
 }
-h2:hover {
-    color: #32323f;
+.team-text1 h1 {
+    text-align: center;
+    color: #5f5f79;
+    position: absolute;
+    display: flex;
+    font-size: 30px;
+    font-weight: bold;
 }
+.team-text1 h2 {
+    color: #5f5f79;
+    position: absolute;
+    display: flex;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
 .TastyNinjas {
     left: 35%;
+    
+}
+.TastyNinjas1 {
+    left: 35%;
+    top: 43%;
 }
 
 .eagleEsport {
     right: 35%;
+    opacity: 1;
+}
+.place2beninja {
+    right: 37.5%;
+    top: 43%;
 }
 .ergebniss {
     top: 25%;
+    left: 47%;
+}
+.ergebnissh {
+    top: 50%;
     left: 47%;
 }
 .Teamlogos,.Teamlogos1 {
@@ -108,6 +139,13 @@ h2:hover {
     position: absolute;
     top: 25%;
 }
+.Teamlogos1 {
+    width: 90%;
+    margin: auto;
+    position: absolute;
+    top: 40%;
+}
+
 .Teamlogos img {
     filter: drop-shadow(0px 5px 5px black);
     animation: drop 1.5s ease;
@@ -118,16 +156,30 @@ h2:hover {
     border-radius: 50%;
 }
 
+.Teamlogo1 {
+    position: absolute;
+    border-radius: 50%;
+}
+
 .eagleEsport-logo {
     right: 37%;
     
 
+}
+.place2beninja-logo {
+    right: 37%;
+    top: 30%;
 }
 
 .TastyNinjas-logo {
     left: 33%;
     
 }
+.TastyNinjas1-logo {
+    left: 33%;
+    top: 30%;
+}
+
 .map {
     color: #5f5f79;
 
@@ -141,6 +193,12 @@ h2:hover {
 }
 .B {
     top: 31.5%;
+}
+.AA {
+    top: 54%;
+}
+.BB {
+    top: 56.5%;
 }
 
 @keyframes drop {
