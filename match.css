@@ -108,12 +108,9 @@ h2:hover {
     position: absolute;
     top: 25%;
 }
-.Teamlogos1 {
-    flex: 1;
-    width: 90%;
-    margin: auto;
-    position: absolute;
-    top: 25%;
+.Teamlogos img {
+    filter: drop-shadow(0px 5px 5px black);
+    animation: drop 1.5s ease;
 }
 
 .Teamlogo {
@@ -123,9 +120,36 @@ h2:hover {
 
 .eagleEsport-logo {
     right: 37%;
+    
 
 }
 
 .TastyNinjas-logo {
     left: 33%;
+    
+}
+.map {
+    color: #5f5f79;
+
+    font-weight: bolder;
+    position: absolute;
+    left: 46%;
+    font-size: 18px;
+}
+.A {
+    top: 35%;
+}
+.B {
+    top: 37.5%;
+}
+
+@keyframes drop {
+    0% {
+        opacity: 0;
+        transform: translateY(-80px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0px);
+    }
 }
