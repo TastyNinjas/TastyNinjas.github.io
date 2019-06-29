@@ -109,15 +109,22 @@ main {
     left: 35%;
     top: 43%;
 }
+.TastyNinjas2 {
+    left: 35%;
+    top: 75%;
+}
 
 .eagleEsport {
-    right: 37.5%;
-    
+    right: 34.5%;
+    top: 75%;
 
 }
 .place2beninja {
-    right: 35%;
+    right: 37.5%;
     top: 43%;
+}
+.ARROGUNZ {
+    right: 38.5%;
 }
 .ergebniss {
     top: 25%;
@@ -125,6 +132,10 @@ main {
 }
 .ergebnissh {
     top: 50%;
+    left: 47%;
+}
+.ergebnisshh {
+    top: 80%;
     left: 47%;
 }
 .Teamlogos,.Teamlogos1 {
@@ -164,10 +175,14 @@ main {
 
 .eagleEsport-logo {
     right: 37%;
-    top: 30%;
+    top: 60%;
 
 }
 .place2beninja-logo {
+    right: 37%;
+    top: 30%;
+}
+.ARROGUNZ-logo {
     right: 37%;
 }
 
@@ -178,6 +193,10 @@ main {
 .TastyNinjas1-logo {
     left: 33%;
     top: 30%;
+}
+.TastyNinjas2-logo {
+    left: 33%;
+    top: 60%;
 }
 
 .map {
@@ -199,6 +218,12 @@ main {
 }
 .BB {
     top: 56.5%;
+}
+.AAA {
+    top: 84.5%;
+}
+.BBB {
+    top: 87%;
 }
 
 @keyframes drop {
