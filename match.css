@@ -215,15 +215,19 @@ main {
 }
 .AA {
     top: 54%;
+    left: 45%
 }
 .BB {
     top: 56.5%;
+    left: 45%
 }
 .AAA {
     top: 84.5%;
+    left: 45.5%;
 }
 .BBB {
     top: 87%;
+    left: 45.5%;
 }
 
 @keyframes drop {
