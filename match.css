@@ -103,28 +103,35 @@ main {
 
 .TastyNinjas {
     left: 35%;
-    
-}
-.TastyNinjas1 {
-    left: 35%;
-    top: 43%;
 }
 .TastyNinjas2 {
     left: 35%;
+    top: 43%;
+}
+.TastyNinjas3 {
+    left: 35%;
     top: 75%;
+}
+.TastyNinjas4 {
+    left: 35%;
+    top: 100%;
 }
 
 .eagleEsport {
     right: 34.5%;
-    top: 75%;
+    top: 100%;
 
 }
 .place2beninja {
     right: 37.5%;
-    top: 43%;
+    top: 75%;
 }
 .ARROGUNZ {
     right: 38.5%;
+    top: 43%;
+}
+.MindGameseSports {
+    right: 36.5%;
 }
 .ergebniss {
     top: 25%;
@@ -136,6 +143,10 @@ main {
 }
 .ergebnisshh {
     top: 80%;
+    left: 47%;
+}
+.ergebnisshhh {
+    top: 105%;
     left: 47%;
 }
 .Teamlogos,.Teamlogos1 {
@@ -175,16 +186,21 @@ main {
 
 .eagleEsport-logo {
     right: 37%;
-    top: 60%;
+    top: 87%;
 
 }
 .place2beninja-logo {
     right: 37%;
-    top: 30%;
+    top: 60%;
 }
 .ARROGUNZ-logo {
     right: 37%;
+    top: 30%;
 }
+.MINDGAMES-logo {
+    right: 37%;
+}
+
 
 .TastyNinjas-logo {
     left: 33%;
@@ -198,6 +214,10 @@ main {
     left: 33%;
     top: 60%;
 }
+.TastyNinjas3-logo {
+    left: 33%;
+    top: 87%;
+}
 
 .map {
     color: #5f5f79;
@@ -209,11 +229,11 @@ main {
 }
 .A {
     top: 29%;
-    left: 45%;
+    left: 46%;
 }
 .B {
     top: 31.5%;
-    left: 45%;
+    left: 46%;
 }
 .AA {
     top: 54%;
@@ -229,6 +249,14 @@ main {
 }
 .BBB {
     top: 87%;
+    left: 45.5%;
+}
+.AAAA {
+    top: 110%;
+    left: 45.5%;
+}
+.BBBB {
+    top: 112.5%;
     left: 45.5%;
 }
 
