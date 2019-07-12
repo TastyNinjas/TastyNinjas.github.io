@@ -92,10 +92,10 @@ nav {
     padding: 50px 0px 0px 0px;
 }
 .cta-99damage {
-
+    border: 0;
     font-weight: 700;
     color: white;
-    background: #822017;
+    background: #05ad08;
     width: 150px;
     height: 50px;
     cursor: pointer;
@@ -107,9 +107,9 @@ nav {
 }
 .cta-steamgroup {
     font-weight: 700;
-    border: 2px solid #822017;
+    border: 2px solid #05ad08;
     background: transparent;
-    color: #822017;
+    color: #05ad08;
     width: 150px;
     height: 50px;
     cursor: pointer;
